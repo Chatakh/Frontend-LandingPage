@@ -1,1 +1,1 @@
-# Frontend-LandingPage, built with html, Css and javascript. This is a mini project with animation.
+# Frontend-LandingPage, built with HTML, CSS and JavaScript. This is a mini project with animation.
